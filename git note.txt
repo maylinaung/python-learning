@@ -2,4 +2,11 @@ https://github.com/maylinaung/python-learning.git
 
 
 
-
+git init
+git add .
+git commit -m "note update"
+git remote add origin plse type your url
+git remote -v
+git push origin master
+or
+git push -f origin master
