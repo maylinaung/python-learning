@@ -1,6 +1,6 @@
 https://github.com/maylinaung/python-learning.git
 
-
+https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
 
 git init
 git add .
@@ -10,3 +10,8 @@ git remote -v
 git push origin master
 or
 git push -f origin master
+
+
+reop git lab
+username:maylinaung96@gmail.com
+password:Mghtay&172255
