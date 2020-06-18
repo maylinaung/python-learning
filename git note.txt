@@ -5,7 +5,7 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 git init
 git add .
 git commit -m "note update"
-git remote add origin plse type your url
+git remote add origin <plse type your url>
 git remote -v
 git push origin master
 or
